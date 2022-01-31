@@ -1,0 +1,46 @@
+.note2 {
+  height: 570px;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 250px;
+  font-family: "Roboto Mono", monospace;
+}
+.note2img {
+  float: left;
+}
+.noten {
+  padding: 50px;
+  padding-bottom: -10px;
+  background-color: #f4f9f9;
+  float: right;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  border-radius: 30px;
+}
+.subnote {
+  font-family: "Zen Kurenaido", sans-serif;
+  text-align: center;
+  background-color: #dddddd;
+  line-height: 30px;
+  height: 350px;
+  width: 290px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  border-radius: 25px;
+  transition: transform 300ms;
+}
+.pp1 {
+  padding: 10px;
+  transition: transform 400ms;
+}
+.pp1:hover {
+  transform: scale(1.12);
+  color: black;
+}
+.car1 {
+  height: 600px;
+  width: 600px;
+  object-fit: contain;
+  margin-top: -50px;
+}

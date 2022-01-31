@@ -1,0 +1,173 @@
+body {
+  margin: 0rem;
+  border: 0rem;
+  padding: 0rem;
+}
+header {
+  background-color: #85ffbd;
+  background-image: linear-gradient(45deg, #85ffbd 0%, #fffb7d 100%);
+  height: 600px;
+}
+.c2 {
+  margin: 0;
+}
+.c1 {
+  padding-top: 170px;
+}
+.name {
+  border-left: 20px;
+  font-family: "Anton", sans-serif;
+  color: rgb(255, 255, 255);
+  right: 0;
+  font-size: 5rem;
+  letter-spacing: 0.5rem;
+  margin-left: 50px;
+  margin-right: 50px;
+  top: 100px;
+  border-style: solid;
+  border-width: 2rem;
+}
+p {
+  font-family: "Montserrat", sans-serif;
+  color: rgb(255, 255, 255);
+  transition: transform 400ms;
+}
+.logo1:hover {
+  transform: scale(1.25);
+}
+.animecol {
+  line-height: 25px;
+  font-weight: 600;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    202deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(37, 37, 144, 1) 15%,
+    rgba(0, 212, 255, 1) 57%
+  );
+
+  position: absolute;
+  top: 80px;
+  width: 450px;
+  height: 300px;
+  text-align: center;
+  right: 290px;
+  margin-left: 80px;
+  padding: 10px;
+  margin-right: 50px;
+  padding-top: 10px;
+  border-radius: 20px;
+  transition: transform 400ms;
+  /* transform: perspective(600px) rotateY(-40deg); */
+  transform: perspective(600px) rotateY(-40deg);
+  z-index: 1;
+  box-shadow: -30px 30px 10px rgba(0, 0, 0, 0.61);
+  font-family: "Montserrat", sans-serif;
+}
+.logos {
+  max-height: 200px;
+  object-fit: contain;
+  width: 200px;
+  border-radius: 25px;
+}
+.animecol:hover {
+  transform: scale(1.09);
+}
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.75),
+    rgba(0, 0, 0, 0)
+  );
+}
+
+/* .animecol:hover {
+  transform: perspective(600px) rotateY(-40deg);
+  z-index: 1;
+} */
+.rawin {
+  text-align: center;
+  padding-top: 3px;
+  padding: 22px;
+  margin-bottom: 60px;
+  background: rgb(65, 134, 156);
+  background: linear-gradient(
+    310deg,
+    rgba(65, 134, 156, 1) 11%,
+    rgba(0, 255, 55, 1) 90%
+  );
+
+  position: absolute;
+  top: 200px;
+  width: 200px;
+  height: 250px;
+  right: 170px;
+  border-radius: 20px;
+  transition: transform 400ms;
+  transform: skew(25deg, -5deg);
+  /* box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset; */
+  box-shadow: -30px 30px 10px rgba(0, 0, 0, 0.61);
+}
+.rawin:hover {
+  transform: perspective(600px) rotateY(-40deg);
+  z-index: 2;
+}
+.jeni {
+  line-height: 25px;
+  text-align: center;
+  background: rgb(65, 82, 156);
+  background: linear-gradient(
+    236deg,
+    rgba(65, 82, 156, 1) 24%,
+    rgba(0, 255, 149, 1) 68%
+  );
+  position: absolute;
+  top: 230px;
+  width: 150px;
+  height: 200px;
+  right: 550px;
+  padding: 40px;
+  padding-bottom: 70px;
+  border-radius: 20px;
+  transition: transform 400ms;
+  transform: skew(25deg, -5deg);
+
+  box-shadow: -30px 30px 10px rgba(0, 0, 0, 0.61);
+}
+.jeni:hover {
+  transform: perspective(600px) rotateY(-40deg);
+  z-index: 1;
+}
+.space {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.f {
+  font-size: 1rem;
+  line-height: 27px;
+  text-align: center;
+  background: rgb(136, 65, 156);
+  background: linear-gradient(
+    236deg,
+    rgba(136, 65, 156, 1) 20%,
+    rgba(0, 177, 255, 1) 51%,
+    rgba(0, 255, 226, 1) 83%
+  );
+  position: absolute;
+  z-index: 1;
+  top: 352px;
+  width: 150px;
+  height: 200px;
+  right: 220px;
+  padding: 50px;
+  border-radius: 20px;
+  transition: transform 400ms;
+  transform: perspective(600px) rotateY(-40deg);
+  /* box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset; */
+  box-shadow: -30px 30px 10px rgba(0, 0, 0, 0.61);
+}
