@@ -1,5 +1,6 @@
 .note2 {
-  height: 570px;
+  padding: 10px;
+  height: 650px;
   padding-top: 50px;
   padding-left: 100px;
   padding-right: 250px;
@@ -10,13 +11,14 @@
 }
 .noten {
   padding: 50px;
-  padding-bottom: -10px;
+
   background-color: #f4f9f9;
   float: right;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
     rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
     rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
   border-radius: 30px;
+  margin-top: 70px;
 }
 .subnote {
   font-family: "Zen Kurenaido", sans-serif;
@@ -39,8 +41,8 @@
   color: black;
 }
 .car1 {
-  height: 600px;
-  width: 600px;
+  height: 500px;
+  width: 500px;
   object-fit: contain;
-  margin-top: -50px;
+  margin-top: 50px;
 }

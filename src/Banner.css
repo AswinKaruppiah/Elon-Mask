@@ -33,7 +33,7 @@ p {
   transition: transform 400ms;
 }
 .logo1:hover {
-  transform: scale(1.25);
+  transform: scale(0.9);
 }
 .animecol {
   line-height: 25px;
@@ -71,7 +71,7 @@ p {
   border-radius: 25px;
 }
 .animecol:hover {
-  transform: scale(1.09);
+  transform: scale(1);
 }
 hr {
   border: 0;
