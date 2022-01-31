@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/AswinKaruppiah/Elon-Mask.git/static/css/main.d1ba0cc2.css",
-    "main.js": "/AswinKaruppiah/Elon-Mask.git/static/js/main.632cc50f.js",
-    "static/media/pngfind.com-moon-emoji-png-351139.png": "/AswinKaruppiah/Elon-Mask.git/static/media/pngfind.com-moon-emoji-png-351139.a11b1e35f1cb9dccb88c.png",
-    "static/media/Elon-Musk-PNG-Isolated-HD-Pictures.png": "/AswinKaruppiah/Elon-Mask.git/static/media/Elon-Musk-PNG-Isolated-HD-Pictures.e907ee5b2b03074c3bad.png",
-    "static/media/Online campaign_Flatline.png": "/AswinKaruppiah/Elon-Mask.git/static/media/Online campaign_Flatline.e00d3db79ac37803fa8e.png",
-    "static/media/undraw_electric_car_b7hl (1) (2).png": "/AswinKaruppiah/Elon-Mask.git/static/media/undraw_electric_car_b7hl (1) (2).8415c5b4fb2c3a15ead3.png",
-    "static/media/pngegg (2).png": "/AswinKaruppiah/Elon-Mask.git/static/media/pngegg (2).c7da0b448987ae3dbaf9.png",
-    "static/media/imgbin_question-mark-png.png": "/AswinKaruppiah/Elon-Mask.git/static/media/imgbin_question-mark-png.91047be77608b1487fee.png",
-    "index.html": "/AswinKaruppiah/Elon-Mask.git/index.html",
-    "main.d1ba0cc2.css.map": "/AswinKaruppiah/Elon-Mask.git/static/css/main.d1ba0cc2.css.map",
-    "main.632cc50f.js.map": "/AswinKaruppiah/Elon-Mask.git/static/js/main.632cc50f.js.map"
+    "main.css": "/AswinKaruppiah/Elon-Mask/static/css/main.d1ba0cc2.css",
+    "main.js": "/AswinKaruppiah/Elon-Mask/static/js/main.c7940e0c.js",
+    "static/media/pngfind.com-moon-emoji-png-351139.png": "/AswinKaruppiah/Elon-Mask/static/media/pngfind.com-moon-emoji-png-351139.a11b1e35f1cb9dccb88c.png",
+    "static/media/Elon-Musk-PNG-Isolated-HD-Pictures.png": "/AswinKaruppiah/Elon-Mask/static/media/Elon-Musk-PNG-Isolated-HD-Pictures.e907ee5b2b03074c3bad.png",
+    "static/media/Online campaign_Flatline.png": "/AswinKaruppiah/Elon-Mask/static/media/Online campaign_Flatline.e00d3db79ac37803fa8e.png",
+    "static/media/undraw_electric_car_b7hl (1) (2).png": "/AswinKaruppiah/Elon-Mask/static/media/undraw_electric_car_b7hl (1) (2).8415c5b4fb2c3a15ead3.png",
+    "static/media/pngegg (2).png": "/AswinKaruppiah/Elon-Mask/static/media/pngegg (2).c7da0b448987ae3dbaf9.png",
+    "static/media/imgbin_question-mark-png.png": "/AswinKaruppiah/Elon-Mask/static/media/imgbin_question-mark-png.91047be77608b1487fee.png",
+    "index.html": "/AswinKaruppiah/Elon-Mask/index.html",
+    "main.d1ba0cc2.css.map": "/AswinKaruppiah/Elon-Mask/static/css/main.d1ba0cc2.css.map",
+    "main.c7940e0c.js.map": "/AswinKaruppiah/Elon-Mask/static/js/main.c7940e0c.js.map"
   },
   "entrypoints": [
     "static/css/main.d1ba0cc2.css",
-    "static/js/main.632cc50f.js"
+    "static/js/main.c7940e0c.js"
   ]
 }
